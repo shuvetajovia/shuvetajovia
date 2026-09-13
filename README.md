@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header with Aqua Blue & Neon Pink Theme -->
   <a href="https://github.com/shuvetajovia">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&width=880&height=100&lines=%E2%9C%A8+Hi+there%2C+I'm+A+Shuveta+Jovi+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Computer+Science+Junior+%40+SRM+IST+%7C+AI+%26+Full-Stack+Engineer;Building+Scalable+Cloud+Apps+%26+Computer+Vision+Systems+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&width=880&height=100&lines=%E2%9C%A8+Hi+there%2C+I'm+A+Shuveta+Jovi+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB; Computer+Science+Junior+%40+SRM+IST+%7C+AI+%26+Full-Stack+Engineer;Building+Scalable+Cloud+Apps+%26+Computer+Vision+Systems+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 
   <br/>

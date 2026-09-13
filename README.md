@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header with Aqua Blue & Neon Pink Theme -->
   <a href="https://github.com/shuvetajovia">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&width=880&height=100&lines=%E2%9C%A8+Hi+there%2C+I'm+A+Shuveta+Jovi+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Computer+Science+Junior+%40+SRM+IST+%28CGPA%3A+9.6%2F10.0%29;AI+%26+Computer+Vision+Developer+%7C+Full-Stack+Engineer+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&width=880&height=100&lines=%E2%9C%A8+Hi+there%2C+I'm+A+Shuveta+Jovi+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Computer+Science+Junior+%40+SRM+IST+%7C+AI+%26+Full-Stack+Engineer;Building+Scalable+Cloud+Apps+%26+Computer+Vision+Systems+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -10,7 +10,7 @@
   <!-- Aesthetic Header Badges -->
   <p align="center">
     <a href="https://github.com/shuvetajovia">
-      <img src="https://img.shields.io/badge/Academic_Standing-CGPA_9.6_%2F_10.0-00f0ff?style=for-the-badge&logo=google-scholar&logoColor=black" alt="CGPA" />
+      <img src="https://img.shields.io/badge/Education-B.Tech_CSE_%40_SRM_IST-00f0ff?style=for-the-badge&logo=google-scholar&logoColor=black" alt="Education" />
     </a>
     <a href="https://github.com/shuvetajovia">
       <img src="https://img.shields.io/badge/Specialization-AI_%26_Computer_Vision-ff70a6?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI & CV" />
@@ -32,12 +32,12 @@
 
 ### 🌸 Professional Summary
 
-> **Computer Science Engineering student** at **SRM Institute of Science and Technology** with a strong academic record (**9.6 / 10.0 CGPA**) and hands-on expertise in **Software Engineering, Full-Stack Applications, Database Systems, and AI-driven Computer Vision**. Proficient in **Java, Python, and SQL**, with deep practical experience architecting solutions using **React, Node.js, Supabase, Firebase, PyTorch, and OpenCV**. Driven by building reliable, maintainable, and scalable technology solutions that solve real-world challenges.
+> **Computer Science Engineering student** at **SRM Institute of Science and Technology** with hands-on expertise in **Software Engineering, Full-Stack Applications, Database Systems, and AI-driven Computer Vision**. Proficient in **Java, Python, and SQL**, with deep practical experience architecting solutions using **React, Node.js, Supabase, Firebase, PyTorch, and OpenCV**. Driven by building reliable, maintainable, and scalable technology solutions that solve real-world challenges.
 
 ```yaml
 name: "A Shuveta Jovi"
+role: "AI Engineer & Full-Stack Developer"
 education: "B.Tech Computer Science Engineering @ SRM IST, Kattankulathur (2024 – 2028)"
-cgpa: "9.6 / 10.0"
 focus_areas: 
   - "Computer Vision & Deep Learning (Satellite Imagery, Medical AI, Agriculture)"
   - "Full-Stack Development (React, Node.js, Supabase, Firebase)"
@@ -132,12 +132,11 @@ core_values: ["Analytical Thinking", "Continuous Learning", "Scalable System Des
 
 ---
 
-### 🎓 Education & Honors
+### 🎓 Education & Background
 
 - 🏫 **SRM Institute of Science and Technology, Kattankulathur**
   - **Degree:** Bachelor of Technology (B.Tech) in Computer Science and Engineering
   - **Timeline:** 2024 – 2028 | **Junior Year**
-  - **Academic Standing (CGPA):** 🌟 **9.6 / 10.0**
 
 ---
 

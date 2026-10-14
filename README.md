@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF70A6&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%9A%80+Computer+Science+Junior+%40+SRM+IST;%F0%9F%A7%A0+Computer+Vision+%26+Deep+Learning+Enthusiast;%F0%9F%92%BB+Full-Stack+Architect+%7C+Java+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+SQL" alt="Typing Animation" />
 </p>
 
+
 <p align="center">
   <a href="https://github.com/shuvetajovia">
     <img src="https://img.shields.io/badge/Status-Building_%26_Innovating-00f0ff?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" />
